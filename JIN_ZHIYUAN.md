@@ -18,4 +18,5 @@ In Hilary and Jackie, music is not merely a background element but a powerful em
 
 <img src="./jin_zhiyuan_img.jpg" alt="image depicting Multiple Sclerosis" style="width:25%;" />
 
+#장례식 음악
 [The housebuilding song](https://youtu.be/TMQeYF_xOxE?si=ZBCWe9CDcrbU2K55) At various stages of life, most of us cannot make our own decisions, but at least in our moments of death, I hope to decide what impression my departure will leave on those who care about me. I don't want it to evoke sadness or sorrow, which is why I chose this song—humor and humor.
