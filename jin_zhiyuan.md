@@ -19,11 +19,11 @@ Example:In Hilary and Jackie and [*A Beautiful Mind*](pyo_sujin.md), both protag
 
 ![3ba0862a967779707fc6e993872c394](https://github.com/user-attachments/assets/7ae2b646-d634-4dcd-8f56-3835ceb95773)
 
-＃장례식 음악
+# 장례식 음악
 
 At various stages of life, most of us cannot make our own decisions, but at least in our moments of death, I hope to decide what impression my departure will leave on those who care about me. I don't want it to evoke sadness or sorrow, which is why I chose [this song](https://youtu.be/TMQeYF_xOxE?si=ZBCWe9CDcrbU2K55).
 
-＃질환서사：아서 모건의 마지막 여정
+# 질환서사：아서 모건의 마지막 여정
 
 Arthur Morgan wasn’t afraid of bullets. He’d lived through gunfights, betrayals, freezing mountains, and burning towns. But what he didn’t expect—what he couldn’t fight off with a gun—was the sickness growing inside him.
 
